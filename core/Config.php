@@ -10,4 +10,3 @@ class Config
         return $config[$key] ?? null;
     }
 }
-
